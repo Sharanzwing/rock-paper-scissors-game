@@ -4,7 +4,7 @@ A classic Rock, Paper, Scissors game built with HTML, CSS, and JavaScript. Chall
 
 ## 🎮 Live Demo
 
-[Add your live demo link here]
+ https://sharanzwing.github.io/rock-paper-scissors-game/
 
 ## ✨ Features
 
